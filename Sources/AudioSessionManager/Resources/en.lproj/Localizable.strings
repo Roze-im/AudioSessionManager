@@ -1,0 +1,21 @@
+//
+//  Localizable.strings
+//  AudioRecorder
+//
+//  Created by Alexis Barat on 19/09/2023.
+//
+
+// Record errors
+"recorderror.generic.title" = "Unable to record audio";
+"recorderror.generic.message" = "An error occured, please try again. Restart the application if the problem persists.";
+
+// Play error
+"playerror.generic.title" = "Unable to play audio";
+"playerror.generic.message" = "An error occured, please try again. Restart the application if the problem persists.";
+
+// Configuration errors
+"configurationerror.missingMicrophoneAuthorization.message" = "You must authorize the use of the microphone in the application settings.";
+"configurationerror.failedToActivateSession.message" = "Failed to activate the audio session, please try again. Restart the application if the problem persists.";
+"configurationerror.mediaServiceWereLost.message" = "Your device does not currently allow the recording or playback of audio messages.";
+"configurationerror.failedToOverrideOutputPort.message" = "An error occurred while setting the audio output, please try again. Restart the application if the problem persists.";
+
